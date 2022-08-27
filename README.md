@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Khatri</h1>
 <h3 align="center">Web Developer and Problem Solver</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roughking07-1&label=Profile%20views&color=0e75b6&style=flat" alt="roughking07" /> </p>
-<img align = "right" alt = "coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
+<img align = "right" alt = "coding" width="425" height="250" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966"/>
 - 🌱 I’m currently learning **Django, ReactJS**
 
 - 📫 How to reach me **kunalkhatri017@gmail.com**
@@ -32,6 +32,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roughking07&show_icons=true&locale=en&layout=compact" alt="roughking07" /></p>
 
-<p>&nbsp;<br>
+<p>&nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=roughking07&show_icons=true&locale=en" alt="roughking07" /></p>
 
