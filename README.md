@@ -31,7 +31,6 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roughking07&show_icons=true&locale=en&layout=compact" alt="roughking07" /></p>
-
-<p>&nbsp;
+<p>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=roughking07&show_icons=true&locale=en" alt="roughking07" /></p>
 
